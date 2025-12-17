@@ -1,1 +1,0 @@
-window.OBJECTION_TITLE = "";
