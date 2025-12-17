@@ -15,7 +15,8 @@
   },
   "files": [
     "dist",
-    "public"
+    "public",
+    "public/objection-assets"
   ],
   "scripts": {
     "build": "tsup",
