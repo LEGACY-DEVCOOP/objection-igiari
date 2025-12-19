@@ -117,14 +117,14 @@ npm unlink
 cd /Users/yui/PersonalProjects/GITBLAME/objection-igiari\
 npm run build
 npm pack
-# 생성된 파일: objection-irigari-0.1.0.tgz
+# 생성된 파일: objection-irigari-0.1.1.tgz
 ```
 
 ### 2단계: Next.js 프로젝트에서 설치
 
 ```bash
 cd ~/Documents/test-objection
-npm install /Users/yui/PersonalProjects/GITBLAME/objection-igiari\ /objection-irigari-0.1.0.tgz
+npm install /Users/yui/PersonalProjects/GITBLAME/objection-igiari\ /objection-irigari-0.1.1.tgz
 ```
 
 나머지는 방법 1과 동일합니다.
